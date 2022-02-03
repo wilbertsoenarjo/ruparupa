@@ -1,0 +1,25 @@
+{
+  "name": "ruparupa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilbertsoenarjo/ruparupa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilbertsoenarjo/ruparupa/issues"
+  },
+  "homepage": "https://github.com/wilbertsoenarjo/ruparupa#readme"
+}
